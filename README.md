@@ -264,7 +264,13 @@ You need to be very comfortable in the language and be knowledgeable.
 Read more about choices:
 - [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 Be familiar with more than one languages.
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
+Choose a language that you are proficient with and its popular
+
+Books that were recommended
+- [ ] Programming Interviews Exposed
+- [ ] 7 Languages in 7 Weeks
+
 
 [See language resources here](programming-language-resources.md)
 
