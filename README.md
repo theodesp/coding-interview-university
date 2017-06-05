@@ -262,7 +262,8 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+Be familiar with more than one languages.
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
