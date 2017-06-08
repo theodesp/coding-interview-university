@@ -238,8 +238,8 @@ Great insight of Facebook's interviewing process
 - [x] Cracking The Coding Interview Set 1:
     - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [x] How to Get a Job at the Big 4:
+    - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 Not wanting to pay sorry
 - [ ] <del>Prep Course:
@@ -270,7 +270,6 @@ Be familiar with more than one languages.
 Choose a language that you are proficient with and its popular
 
 Books that were recommended
-- [ ] Programming Interviews Exposed
 - [ ] 7 Languages in 7 Weeks
 
 
